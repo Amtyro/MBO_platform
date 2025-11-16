@@ -128,8 +128,3 @@ As far as I'm concerned, the platform will ultimately be used to support certain
 - `pip` (Python package manager)
 - Git
 
-### Clone the repository
-
-```bash
-git clone https://github.com/yourname/your-repo.git
-cd your-repo
